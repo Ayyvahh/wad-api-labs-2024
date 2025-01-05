@@ -7,7 +7,6 @@
     <list default="true" id="6bb3d466-ffaf-4b1a-b69b-2f8762325655" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasky-api/api/tasks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/api/tasks/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasky-api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1736101553285" duration="158000" />
       <workItem from="1736101720591" duration="737000" />
       <workItem from="1736102530287" duration="1097000" />
-      <workItem from="1736103642934" duration="3080000" />
+      <workItem from="1736103642934" duration="4184000" />
     </task>
     <servers />
   </component>
