@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb3d466-ffaf-4b1a-b69b-2f8762325655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tasky-api/db/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasky-api/api/tasks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/api/tasks/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasky-api/api/tasks/taskModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/api/tasks/taskModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasky-api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasky-api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasky-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tasky-api/package.json" afterDir="false" />
     </list>
@@ -75,7 +77,7 @@
       <workItem from="1736102530287" duration="1097000" />
       <workItem from="1736103642934" duration="5145000" />
       <workItem from="1736109104919" duration="283000" />
-      <workItem from="1736109400423" duration="455000" />
+      <workItem from="1736109400423" duration="1095000" />
     </task>
     <servers />
   </component>
