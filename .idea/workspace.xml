@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb3d466-ffaf-4b1a-b69b-2f8762325655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/node-lab1/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-lab1/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-lab1/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-lab1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node-lab1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node-lab1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node-lab1/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +46,7 @@
     "nodejs_interpreter_path": "C:/Users/ayyva/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.12.0/node",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ayyva/WebstormProjects/WebApp2/src/main.js",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,7 +67,8 @@
       <updated>1736101552292</updated>
       <workItem from="1736101553285" duration="158000" />
       <workItem from="1736101720591" duration="737000" />
-      <workItem from="1736102530287" duration="927000" />
+      <workItem from="1736102530287" duration="1097000" />
+      <workItem from="1736103642934" duration="394000" />
     </task>
     <servers />
   </component>
