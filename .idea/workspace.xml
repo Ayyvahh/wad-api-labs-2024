@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb3d466-ffaf-4b1a-b69b-2f8762325655" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/node-lab1/eslint.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node-lab1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasky-api/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasky-api/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasky-api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasky-api/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node-lab1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node-lab1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node-lab1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node-lab1/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ayyva/WebstormProjects/WebApp2/tasky-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +51,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ayyva\WebstormProjects\WebApp2\tasky-api" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +74,7 @@
       <workItem from="1736101553285" duration="158000" />
       <workItem from="1736101720591" duration="737000" />
       <workItem from="1736102530287" duration="1097000" />
-      <workItem from="1736103642934" duration="394000" />
+      <workItem from="1736103642934" duration="1490000" />
     </task>
     <servers />
   </component>
