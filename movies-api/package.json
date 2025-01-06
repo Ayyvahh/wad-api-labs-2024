@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
-    "dev": "babel-node ./initialise-dev/initDevDB.js && nodemon --exec npm start"  },
-
+    "dev": "babel-node ./initialise-dev/initDevDB.js && nodemon --exec npm start"
+  },
   "author": "Ayyvahh",
   "license": "ISC",
   "description": "",
