@@ -2,7 +2,9 @@ import dotenv from 'dotenv';
 import express from 'express';
 import tasksRouter from './api/tasks/index.js';
 import './db/index.js';
-import './api/users/index.js';
+import './api/users';
+// other imports
+import cors from 'cors';
 
 import usersRouter from './api/users';
 
@@ -28,6 +30,9 @@ app.use('/api/tasks', tasksRouter);
 app.use(errHandler);
 //Users router
 app.use('/api/users', usersRouter);
+// Enable CORS for all requests
+app.use(cors());
+
 
 
 app.listen(port, () => {
