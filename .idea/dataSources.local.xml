@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-243.22562.222">
+    <data-source name="MongoDB" uuid="dda4a287-85c5-4518-9db3-d48643d137e6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ava</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
